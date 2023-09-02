@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nft-ai-generated/static/css/main.5678eb8d.css",
+    "main.js": "/nft-ai-generated/static/js/main.7538a3cb.js",
+    "static/js/787.7d61d2f7.chunk.js": "/nft-ai-generated/static/js/787.7d61d2f7.chunk.js",
+    "index.html": "/nft-ai-generated/index.html",
+    "main.5678eb8d.css.map": "/nft-ai-generated/static/css/main.5678eb8d.css.map",
+    "main.7538a3cb.js.map": "/nft-ai-generated/static/js/main.7538a3cb.js.map",
+    "787.7d61d2f7.chunk.js.map": "/nft-ai-generated/static/js/787.7d61d2f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5678eb8d.css",
+    "static/js/main.7538a3cb.js"
+  ]
+}
