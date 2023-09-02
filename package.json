@@ -1,6 +1,7 @@
 {
   "name": "ai_nft_generator",
   "version": "0.1.0",
+  "homepage": "https://SMART-Corporation.github.io/nft-ai-generated",
   "private": true,
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.0",
@@ -19,6 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +47,7 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "gh-pages": "^6.0.0",
     "hardhat": "^2.12.5"
   }
 }
